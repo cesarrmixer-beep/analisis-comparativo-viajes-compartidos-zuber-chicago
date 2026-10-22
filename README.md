@@ -3,7 +3,7 @@
 > ¿Cómo optimizar la flota de Zuber en Chicago para reducir tiempos de espera y aumentar ganancias?
 
 ### 📌 LINK AL PROYECTO
-Jupyter Notebook: [Ver análisis completo]
+Jupyter Notebook: [zuber_chicago_viajes_compartidos.ipynb]
 
 ---
 
