@@ -61,7 +61,7 @@ Si yo fuera Product Manager de Zuber, haría esto MAÑANA:
 ---
 
 ### 📈 Visualizaciones
-![Demanda por vecindario](ruta/de/tu/grafica.png)
+![Top 10 vecindario](top_10_vecindarios.png)
 
 ---
 
